@@ -7,7 +7,7 @@ The 2022 workshop included two sessions:
 ### Session I: 
 Introduction of Python and Machine Learning in Phytopathology, prepared and presented by [Dr. Muhammad Mohsin Raza](https://www.linkedin.com/in/muhammad-mohsin-raza/). The Colab notebook for the first session is available at [01-intro-python-machine-learning-raza.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2022/blob/main/01-intro-python-machine-learning-raza.ipynb). This session covers the introduction to Python and Google Colab. In addition, this session demonstrated exploratory data analysis and machine learning modeling using a published phytopathological study as an example.
 ### Session II: 
-Hyperspectral Band Selection for Plant Disease Signatures, prepared and presented by [Dr. Xing Wei](https://www.linkedin.com/in/xingwei19). The Colab notebook for the third session is available at [02-plant-disease-hyper-signatures-wei.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2022/blob/main/02-plant-disease-hyper-signatures-wei.ipynb). This session includes the analysis of hyperspectral band selection as plant disease signatures using machine learning.
+Hyperspectral Band Selection for Plant Disease Signatures, prepared and presented by [Dr. Xing Wei](https://www.linkedin.com/in/xingwei19). The Colab notebook for the third session is available at [02-plant-disease-hyper-signatures-wei.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2022/blob/main/02-plant-disease-hyper-signatures-wei.ipynb). This session introduces hyperspectral band selection as plant disease signatures using machine learning.
 
 ## Learning Objectives
 1.	This workshop will provide an overview of Python for data science applications
