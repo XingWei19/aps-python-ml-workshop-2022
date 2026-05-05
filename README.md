@@ -1,25 +1,26 @@
 # Introduction of Python and Machine Learning in Phytopathology
 
-## Workshop Summary
-Python is a powerful open-source programming language known for its easy-access libraries and framework built for machine learning modeling tasks. With the advancements in plant phenotyping technologies in the past few years, the application of machine learning models in phytopathology for plant disease symptom detection and severity estimation has gained increasing interest. This proposed workshop aims to introduce python language and its environment to plant pathologists and hands-on activities on data manipulation, statistical analysis, and visualization. In addition, this workshop will also introduce machine learning packages and techniques for conducting classification modeling work using datasets from published phytopathological research. This workshop aims to assist plant pathologists in the initial learning curve of a new programming language and motivate them to explore and use python to excel in their research.
+## About
+This workshop was the very first of its kind, designed to introduce plant pathologists to Python and machine learning within the American Phytopathological Society (APS) and beyond. This workshop series was first conducted virtually in 2022 and then in-person in 2025. 
+
+The 2022 workshop included two sessions:
+### Session I: 
+Introduction of Python and Machine Learning in Phytopathology, prepared and presented by [Dr. Muhammad Mohsin Raza](https://www.linkedin.com/in/muhammad-mohsin-raza/). The Colab notebook for the first session is available at [01-intro-python-machine-learning-raza.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2022/blob/main/01-intro-python-machine-learning-raza.ipynb). This session covers the introduction to Python and Google Colab. In addition, this session demonstrated exploratory data analysis and machine learning modeling using a published phytopathological study as an example.
+### Session II: 
+Hyperspectral Band Selection for Plant Disease Signatures, prepared and presented by [Dr. Xing Wei](https://www.linkedin.com/in/xingwei19). The Colab notebook for the third session is available at [03-intro-ml-wei.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2025/blob/main/03_machine_learning_wei/03-intro-ml-wei.ipynb). This session includes the analysis of hyperspectral band selection as plant disease signatures using machine learning.
 
 ## Learning Objectives
-- This workshop will provide an overview of python for data science application 
-- Introduction to python language and environment 
-- Hands-on activity on data analysis and visualization will be conducted 
-- Machine learning packages in python will be introduced 
-- Participants will involve in hands-on activity on building classification and predictive machine learning model from a published Phytopathological research
+1.	This workshop will provide an overview of Python for data science applications
+2.	Introduction to the Python language and environment
+3.	Hands-on activity on data analysis and visualization will be conducted
+4.	Machine learning packages in Python will be introduced
+5.	Participants will be involved in a hands-on activity on building a classification and predictive machine learning model from published Phytopathological research papers
 
-## Presenters
+## Running environments:
+All workshop materials are designed to run in Google Colab.
 
-<img src="data/miscellaneous/20220317_095138909_iOS.jpg" width="100" >
+## Acknowledgments:
+We want to thank the organizers of this workshop: Drs. Santosh Sanjel and Maira Rodrigues Duffeck. 
 
-### Dr. Muhammad Mohsin Raza - University of Exeter
-
-Dr. Muhammad Mohsin Raza is a Postdoctoral Fellow in Data Science and Environment at The Joint Centre for Excellence in Environmental Intelligence (JCEEI) at the University of Exeter and The Alan Turing Institute in London. Dr. Raza holds a Ph.D. in Plant Pathology specializing in yield loss modeling and disease detection based on remote sensing from Iowa State University (ISU). He also has an ISU graduate certificate in Geographic Information System (GIS). In his current position, he is integrating crop and disease models with remote sensing, climate re-analysis data, and climate projections. At JCEEI, he is developing innovative approaches to understanding abiotic and biotic pressures on crop production under climate change.
-
-<img src="data/miscellaneous/xing.jpeg" width="150" >
-
-### Dr. Xing Wei - Purdue University
-
-Dr. Xing Wei is a postdoctoral research assistant in the Department of Agricultural and Biological Engineering at Purdue University. He obtained his Ph.D. in Plant Pathology from Virginia Tech, where he investigated different sensor-based methods for soilborne plant disease detection and management in peanuts. In his current role at Purdue, he works on image analysis and machine learning modeling in several plant phenotyping projects to detect both abiotic and biotic stresses in various tree and crop systems. He is passionate about integrating new sensor technologies into agricultural research and production.
+## Cite this work: 
+Wei, X., and Raza, M.M. 2026. Introduction of Python and Machine Learning in Phytopathology: APS Plant Health 2022 Workshop Materials. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
