@@ -9,7 +9,7 @@ Introduction of Python and Machine Learning in Phytopathology, prepared and pres
 ### Session II: 
 Hyperspectral Band Selection for Plant Disease Signatures, prepared and presented by [Dr. Xing Wei](https://www.linkedin.com/in/xingwei19). The Colab notebook for the third session is available at [02-plant-disease-hyper-signatures-wei.ipynb](https://github.com/XingWei19/aps-python-ml-workshop-2022/blob/main/02-plant-disease-hyper-signatures-wei.ipynb). This session introduces hyperspectral band selection as plant disease signatures using machine learning.
 
-## Learning Objectives
+## Learning objectives
 1.	This workshop will provide an overview of Python for data science applications
 2.	Introduction to the Python language and environment
 3.	Hands-on activity on data analysis and visualization will be conducted
