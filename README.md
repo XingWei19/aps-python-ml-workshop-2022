@@ -23,4 +23,4 @@ All workshop materials are designed to run in Google Colab.
 We want to thank the organizers of this workshop: Drs. Santosh Sanjel and Maira Rodrigues Duffeck. 
 
 ## Cite this work: 
-Wei, X., and Raza, M.M. 2026. Introduction of Python and Machine Learning in Phytopathology: APS Plant Health 2022 Workshop Materials. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+Wei, X., and Raza, M.M. 2026. Introduction of Python and Machine Learning in Phytopathology: APS Plant Health 2022 Workshop Materials. Zenodo. https://doi.org/10.5281/zenodo.20062151
