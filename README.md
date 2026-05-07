@@ -1,4 +1,4 @@
-# Introduction of Python and Machine Learning in Phytopathology
+# Introduction to Python and Machine Learning in Phytopathology
 
 ## About
 This Python and Machine Learning for Plant Pathologists workshop was the very first of its kind, designed to introduce Python and machine learning to plant pathologists within the American Phytopathological Society (APS) and beyond. This workshop series was first conducted virtually in 2022 and then in-person in 2025. 
